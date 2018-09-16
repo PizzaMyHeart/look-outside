@@ -60,7 +60,7 @@ function reset_timer() {
 	console.log('Reset.')
 	clearTimeout(t);
 	start.removeAttribute('disabled');
-	minutes = 1;
+	minutes = 20;
 	seconds = 0;
 	time.textContent = '20 : 00';
 }
