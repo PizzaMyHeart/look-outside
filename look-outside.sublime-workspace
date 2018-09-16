@@ -1,0 +1,640 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"rese",
+				"reset_timer"
+			],
+			[
+				"met",
+				"metropolitan"
+			],
+			[
+				"hamm",
+				"hammersmith_city"
+			],
+			[
+				"wa",
+				"waterloo_city"
+			],
+			[
+				"space",
+				"space-between\talign-content"
+			],
+			[
+				"s",
+				"stretch\talign-content"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"sp",
+				"space-between\talign-content"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"xx",
+				"xx-small\tfont-size"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bus",
+				"bus134"
+			],
+			[
+				"current",
+				"current_date"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"coming",
+				"coming_week"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"week",
+				"week_forecast"
+			],
+			[
+				"curren",
+				"current_time"
+			],
+			[
+				"flex-",
+				"flex-flow\tproperty"
+			],
+			[
+				"news",
+				"news_container"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"comin",
+				"coming_week"
+			],
+			[
+				"hourl",
+				"hourly_summary"
+			],
+			[
+				"icon",
+				"icon_currently"
+			],
+			[
+				"weather",
+				"weatherType"
+			],
+			[
+				"curr",
+				"current_weather"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"sta",
+				"statusSeverityDescription"
+			],
+			[
+				"line",
+				"lineStatuses"
+			],
+			[
+				"ar",
+				"articles"
+			],
+			[
+				"city",
+				"citymapper_whit"
+			],
+			[
+				"citymap",
+				"citymapper_rf"
+			],
+			[
+				"new",
+				"news_malaysia"
+			],
+			[
+				"source",
+				"source"
+			],
+			[
+				"citymapper",
+				"citymapper_whit"
+			],
+			[
+				"tlf",
+				"tfl_tube"
+			],
+			[
+				"citym",
+				"citymapper_rf"
+			],
+			[
+				"tfl",
+				"tfl_tube"
+			],
+			[
+				"url",
+				"url_citymapper_rf"
+			],
+			[
+				"url_",
+				"url_news_bbc"
+			],
+			[
+				"urls",
+				"url_news_malaysia"
+			],
+			[
+				"wh",
+				"whittington"
+			],
+			[
+				"response",
+				"response_whittington"
+			],
+			[
+				"respons",
+				"resopnse_bbc"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"ins",
+				"inst_list"
+			],
+			[
+				"in",
+				"inst_list"
+			],
+			[
+				"link",
+				"link_arr"
+			],
+			[
+				"el",
+				"elsevier"
+			],
+			[
+				"pubmed",
+				"pubmed"
+			],
+			[
+				"not",
+				"not_pubmed"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"els",
+				"els_response"
+			],
+			[
+				"science",
+				"sciencedirect"
+			],
+			[
+				"inser",
+				"insert_here"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"con",
+				"content_js"
+			],
+			[
+				"add",
+				"add_button"
+			],
+			[
+				"user",
+				"user_inst"
+			],
+			[
+				"aler",
+				"alert_no_inst"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"inst",
+				"inst_is_chosen"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"active",
+				"activeTab"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"default",
+				"default_popup"
+			],
+			[
+				"btn",
+				"btnText"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<html>\n\t<head>\n\t\t<title>Look Outside: Give Your Eyes A Break</title>\n\t\t<link rel='stylesheet' type='text/css' href='style.css'>\n\t\t<link href=\"https://fonts.googleapis.com/css?family=Roboto\" rel=\"stylesheet\">\n\t\t<link href=\"https://fonts.googleapis.com/css?family=Roboto+Slab\" rel=\"stylesheet\">\n\t</head>\n\t<body>\n\t\t<img src='glasses.svg'>\n\t\t<h1>Look Outside</h1>\n\t\t<div>Use the <a href='https://www.aao.org/eye-health/tips-prevention/computer-usage'>20/20/20 rule.</a></div>\n\t\t<div>Take a break every 20 minutes, look at something 20 feet away for 20 seconds.</div>\n\t\t<div id='timebox'>\n\t\t\t<div><time>20 : 00</time></div>\n\t\t\t<button id='start'>Start working</button>\n\t\t\t<button id='reset'>Reset</button>\n\t\t</div>\n\t\t<script src='script.js'></script>\n\t</body>\n</html>",
+			"file": "index.html",
+			"file_size": 695,
+			"file_write_time": 131816028827644023,
+			"settings":
+			{
+				"buffer_size": 762,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<html></html>"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 717,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/IanTan2510/Desktop/Projects/dashboard/script.js",
+		"/C/Users/IanTan2510/Desktop/Projects/dashboard/index.html",
+		"/C/Users/IanTan2510/AppData/Local/Microsoft/Windows Mail/oeold.xml",
+		"/C/Users/IanTan2510/Wi-Fi-sweepeng0311@unifi_RPT.xml",
+		"/C/Users/IanTan2510/AppData/Roaming/Sublime Text 3/Packages/orgmode/messages/install.org",
+		"/C/Users/IanTan2510/Desktop/Tools/cmder/README.md",
+		"/C/Users/IanTan2510/Desktop/st.org",
+		"/C/Users/IanTan2510/Desktop/* Org-mode test for ST3\n  From [[https",
+		"/C/Users/IanTan2510/Desktop/stats18/statistical-analysis-python-tutorial/README.md",
+		"/C/Users/IanTan2510/Documents/Arduino/esp8266_deauther/README.md",
+		"/C/Users/IanTan2510/Desktop/Projects/dashboard/style.css",
+		"/C/Users/IanTan2510/Downloads/.ptmp382133/climacons-master/climacons-master/README.md",
+		"/C/Users/IanTan2510/Desktop/Projects/1click_chrome_upload/content.js",
+		"/C/Users/IanTan2510/Desktop/Projects/flaskapp/app/dashboard.py",
+		"/C/Users/IanTan2510/Desktop/Projects/map.py/README.md",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/content.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/manifest.json",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/popup.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/style.css",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/popup.html",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/README.md",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/.gitignore",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/pubmed.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/not_pubmed.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/proxies.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/urls.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/background.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/LICENSE.txt",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/wiley.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/springer.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/nature.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/1-click/sdirect.js",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/rums-review/index.html",
+		"/C/Users/IanTan2510/Desktop/Projects/Front-End Dev Learning/other-projects/rums-review/styles/style.css",
+		"/C/Users/IanTan2510/Desktop/Projects/pelican_env/ducktus/content/posts/links.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html></html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 184.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								1470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "look-outside.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

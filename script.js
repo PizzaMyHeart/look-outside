@@ -39,6 +39,7 @@ function countdown() {
 
 function rest() {
 	if (rest_time >= 20) {
+		rest_time = 0;
 		console.log('Break time\'s over.');
 		var work_notification = new Notification('Look Outside', {
 									body: 'Back to work, buddy.'
