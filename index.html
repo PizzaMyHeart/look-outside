@@ -2,14 +2,18 @@
 	<head>
 		<title>Look Outside: Give Your Eyes A Break</title>
 		<link rel='stylesheet' type='text/css' href='style.css'>
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	</head>
 	<body>
+		<img src='glasses.svg'>
 		<h1>Look Outside</h1>
-		<div>The 20/20/20 rule</div>
+		<div>Use the <a href='https://www.aao.org/eye-health/tips-prevention/computer-usage'>20/20/20 rule.</a></div>
 		<div>Take a break every 20 minutes, look at something 20 feet away for 20 seconds.</div>
-		<button id='start'>Start working</button>
-		<button id='reset'>Reset</button>
-		<div><time>20 : 00</time></div>
+		<div id='timebox'>
+			<div><time>20 : 00</time></div>
+			<button id='start'>Start working</button>
+			<button id='reset'>Reset</button>
+		</div>
 		<script src='script.js'></script>
 	</body>
 </html>
